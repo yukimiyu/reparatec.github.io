@@ -1,0 +1,89 @@
+body {
+  background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  }
+
+@media (min-width: 768px) {
+ .bd-placeholder-img-lg {
+  font-size: 3.5rem;
+}
+.logo{
+  height: 35px ;
+  width: 55px ;
+
+}
+.productoinicial{
+  width: 800px ;
+  height: 800px ;
+
+
+}
+
+label {
+    display:block;
+    margin-top:5px;
+    letter-spacing:1px;
+}
+ 
+.principal {
+    display:block;
+    margin:0 auto;
+    width:510px;
+    color: #666666;
+    font-family:Arial;
+}
+ 
+form {
+    margin:0 auto;
+    width:400px;
+}
+ 
+input, textarea {
+    width:380px;
+    height:27px;
+    background:#666666
+    border:2px solid #eee;
+    padding:10px;
+    margin-top:5px;
+    font-size:10px;
+    color:#ffffff;
+}
+ 
+textarea {
+    height:150px;
+}
+ 
+#submit {
+    width:85px;
+    height:35px;
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+    color: black;
+}
+.con{
+   width: 500px ;
+   height: 500px ;
+   background: #70caee;
+   padding: 0px;
+   margin: 100px 250px 200px;
+   border-radius: 9px;
+
+}
+}
